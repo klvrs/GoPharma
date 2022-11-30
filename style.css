@@ -1,0 +1,147 @@
+
+.background{
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm373batch15-217-01b-kqdjbmpj.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=574f06ed0b78fd56e1ce5b598808ad3d");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+.main_heading{
+    text-align: center;
+    font-family: 'Caveat';
+    font-size: 100px;
+}
+.go{
+    background-color: rgb(78, 147, 236);
+    color: #ffffff;
+}
+.pharma{
+    color: white;
+}
+.tagline{
+    text-align: center;
+    font-family: cursive ;
+    background-color: rgb(255, 255, 255);
+    color: rgba(3, 3, 3, 0.845);
+    font-size: 23px;
+    font-weight: bold;
+}
+.image_healthcare{
+    height: 300px;
+    width: 300px;
+}
+.image_skincare{
+    height: 300px;
+    width: 300px;
+}
+.image_lifestyle{
+    height: 300px;
+    width: 300px;
+}
+.health-care{
+    margin: 10px;
+}
+.Skin-care{
+    margin: 10px;
+}
+.life-style{
+    margin: 10px;
+}
+.footer{
+    padding: 3% 5% 3% 5%;
+    background-color: #e4f9f5;
+    text-align: center;
+}
+.footer h3{
+    font-weight: bold;
+}
+.footicon{
+    margin: 1%;
+}
+.footer p{
+    color: #8f8f8f;
+}
+.background_healthcare{
+    background-image: url("https://gundechapharma.com/wp-content/uploads/2020/04/casj8NRAzF.jpg");
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+}
+.analgesics{
+    background-color: whitesmoke;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    height: 150px;
+    width: 300px;
+}
+.antidiabetic{
+    background-color: whitesmoke;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    height: 150px;
+    width: 300px;
+}
+.Sedative{
+    background-color: whitesmoke;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    height: 150px;
+    width: 300px;
+}
+.antidepressant{
+    background-color: whitesmoke;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    height: 150px;
+    width: 300px;
+}
+.antibiotic{
+    background-color: whitesmoke;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    height: 150px;
+    width: 300px;
+}
+.antiviral{
+    background-color: whitesmoke;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    height: 150px;
+    width: 300px;
+}
+.background_skincare{
+    background-image: url("https://s3.envato.com/files/302100886/dppp%20(72).jpg");
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+}
+.background_lifestyle{
+    background-image: url("https://wallpaperaccess.com/full/5193005.jpg");
+    background-size: cover;
+    height: 100vh;
+    padding: 20px;
+}
+
