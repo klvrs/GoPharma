@@ -1,0 +1,35 @@
+
+.background{
+    background-image: url("https://investintn-static-content.s3.ap-south-1.amazonaws.com/UI/images/prelogin-pages-images/sectors/focus/Pharma%20&%20Biotech/pharma_high.png");
+    background-size: cover;
+    height: 100vh;
+}
+.main_heading{
+    text-align: center;
+    font-family: 'Caveat';
+    font-size: 100px;
+}
+.go{
+    color: aqua;
+}
+.pharma{
+    color: white;
+}
+.tagline{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(239, 94, 27, 0.845);
+    font-size: 23px;
+}
+.image_healthcare{
+    height: 250px;
+    width: 250px;
+}
+.image_skincare{
+    height: 250px;
+    width: 250px;
+}
+.image_lifestyle{
+    height: 250px;
+    width: 250px;
+}
